@@ -1,6 +1,6 @@
 # Controler Antena ATAS-120
 
-Controller pe baza de Arduino care permite utilizarea antenei HF mobile Yaesu ATAS-120 cu **orice transceiver**, oferind totodata o protectie mecanica imbunatatita fata de implementarea originala Yaesu.
+Controller pe baza de Arduino care permite utilizarea antenei HF mobile Yaesu ATAS-120 cu **orice transceiver**, oferind totodata protectie mecanica superioara.
 
 **Autor:** Adrian Florescu YO3HJV — Martie 2026
 
