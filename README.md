@@ -12,7 +12,7 @@ The ATAS-120 antenna tunes across the 7–50 MHz range by varying the motor posi
 - **7–8.5 V** applied via the coax cable → motor runs **DOWN** (increases inductance, lowers resonant frequency)
 - **>10.5 V** → motor runs **UP** (decreases inductance, raises resonant frequency)
 
-This controller intercepts that voltage signal, monitors motor current and supply voltage via an **INA219** sensor, and drives the motor through a **high-side transistor**. All protection logic runs on an AVR microcontroller (Arduino).
+This controller generates the  voltage signal, monitors motor current and supply voltage via an **INA219** sensor, and drives the motor through a **high-side transistor**. All protection logic runs on an AVR microcontroller (Arduino).
 
 ---
 
