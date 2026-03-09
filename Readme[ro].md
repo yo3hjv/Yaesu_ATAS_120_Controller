@@ -12,7 +12,7 @@ Antena ATAS-120 se acorda in gama 7–50 MHz prin modificarea pozitiei motorului
 - **7–8,5 V** aplicati prin cablul coaxial → motorul ruleaza **DOWN** (creste inductanta, scade frecventa de acord)
 - **>10,5 V** → motorul ruleaza **UP** (scade inductanta, creste frecventa de acord)
 
-Controllerul intercepteaza tensiunea de comanda, monitorizeaza curentul motorului si tensiunea de alimentare prin senzorul **INA219**, si comanda motorul printr-un **tranzistor high-side**. Toata logica de protectie ruleaza pe un microcontroller AVR (Arduino).
+Controllerul genereaza tensiunea de comanda, monitorizeaza curentul motorului si tensiunea de alimentare prin senzorul **INA219**, si comanda motorul printr-un **tranzistor high-side**. Toata logica de protectie ruleaza pe un microcontroller AVR (Arduino).
 
 ---
 
